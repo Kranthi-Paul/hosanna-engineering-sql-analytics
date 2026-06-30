@@ -155,7 +155,7 @@ source hosanna_03_analysis_queries.sql
 | `hosanna_01_schema_setup.sql` | CREATE TABLE statements for all 12 tables |
 | `hosanna_02_data_load.sql` | INSERT statements with 12 months of data |
 | `hosanna_03_analysis_queries.sql` | 15 business analysis queries |
-| `data/` | CSV source files for all tables |
+
 
 ---
 
